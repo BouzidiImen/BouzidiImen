@@ -2,7 +2,7 @@
 <h4 align='center'> 
 
 - 👋 Hi, I’m @BouzidiImen
-- 👀 I’m interested in Psychology
+- 👀 I’m interested in Data and Psychology
 - 🌱 I’m currently learning SAS/RWE
 - 💞️ I’m looking to collaborate on a project on Developmental Psychology
 - 📫 Reach me by my e-mail : bouzidi.imen@outlook.com
