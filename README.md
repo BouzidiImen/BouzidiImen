@@ -1,5 +1,5 @@
 
-<h4 align='center'> 
+<h4 align='right'> 
 
 - 👋 Hi, I’m @BouzidiImen
 - 👀 I’m interested in Data and Psychiatry/psychology 
