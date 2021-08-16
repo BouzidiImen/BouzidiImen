@@ -2,7 +2,7 @@
 <h4 align='left'> 
 
 - 👋 Hi, I’m @BouzidiImen
-- 👀 I’m interested in Data and Psychiatry/psychology 
+- 👀 I’m interested in data and psychiatry/psychology 
 - 🌱 I’m currently learning SAS/RWE
 - 💞️ I’m looking to collaborate on a project on Developmental Psychology/ Psychiatry
 - 📫 Reach me by my e-mail : bouzidi.imen@outlook.com
