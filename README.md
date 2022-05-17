@@ -8,6 +8,7 @@ Engineer in statistics and data analysis
 *   🖥️  See my portfolio at [My porfotlio](http://bouzidiimen.github.io/BouzidiImenn/)
 *   ✉️  You can contact me at [bouzidi.imen@outlook.com](mailto: bouzidi.imen@outlook.com )
 *   🧠  I'm learning Deep Learning Specialization
+*   💕 I am deeply interested in statistics/data science and healthcare 
 *   🤝  I'm open to collaborating on Data science projects
 <a href="https://www.github.com/BouzidiImen" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/BouzidiImen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
