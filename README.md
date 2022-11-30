@@ -4,7 +4,7 @@ Hi 👋 My name is Imen Bouzidi
 Engineer in statistics and data analysis
 ----------------------------------------
 
-*   🌍  I'm based in Tunis
+*   🌍  I'm based in *Tunisia
 *   🖥️  See my portfolio at [My porfotlio](http://bouzidiimen.github.io/BouzidiImenn/)
 *   ✉️  You can contact me at [bouzidi.imen@outlook.com](mailto: bouzidi.imen@outlook.com )
 *   🧠  I'm learning Deep Learning Specialization
